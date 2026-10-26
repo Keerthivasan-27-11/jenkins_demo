@@ -1,0 +1,7 @@
+plugin{
+any agents
+stages{
+stage('Hello'){
+steps{
+echo 'Welcome to jenkins'
+}}}}
